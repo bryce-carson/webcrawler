@@ -1,0 +1,12 @@
+## FIXME: I have no idea if any of this is correct now.
+[package]
+name = "experiments"
+description = "Experiments in MWSE-Lua"
+repository = "https://github.com/bryce-carson/mwse-lua-mods"
+authors = ["webcrawler"]
+version = "0.0.1"
+
+[tools]
+lua-mod = "webcrawler.experiments"
+load-priority = 1000
+wait-until-initialize = true

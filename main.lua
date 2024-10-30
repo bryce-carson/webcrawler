@@ -1,0 +1,4 @@
+--- "Wake Up. We're Here. Why are you shaking? Are you ok? Wake up. Stand up.
+--- There you go. You were dreaming. What's your name?"
+--- GOTO https://fennel-lang.org/
+--- Fennel = require("fennel").install() -- install the Fennel searcher
